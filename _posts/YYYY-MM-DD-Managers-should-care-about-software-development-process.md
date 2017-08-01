@@ -34,7 +34,7 @@ Now, I'm not saying that by caring about - and understanding! - your software de
 #### But they don't care about management
 Yep. Most developers see managers as a nuisance and that's putting it mildly. I'm not saying it's justified, it's just what it is. But the only one capable of changing that is - drumroll - you.
 
-Mostly the team is affraid of being micro managed, or to be treated as code monkeys that don't know what they're doing. If you have some bad habits that cause some of the problems described earlier, then changing them will already change this perception about management. 
+Mostly the team is affraid of being micro managed, or to be treated as code monkeys that don't know what they're doing. If you have some bad habits that cause some of the problems described earlier, then changing them will already change this perception about management.
 
 #### Ok, I admit I want to know more
 Good! Tell your team that as well. There's no shame in admitting you don't understand software development. Software development is complex, software systems are complex, there actually _is_ a difference between a front-end developer and a back-end developer.
@@ -50,7 +50,7 @@ We are not all-knowing. Maybe there are things we say that don't work for you. W
 
 I've had my own company for nearly 11 years where we focused on web application development for small and midsize companies. At the same time I've also been partner in another company where we developed parental control software as well as corporate software for managing IT policies. Nowadays I work at Philips Research as a Senior Architect, where I am a Product Owner for a software capability team supporting over 30 software based innovations a year.
 
-My friend Ryan... RYAN PLEASE WRITE YOUR BACKSTORY HERE...
+My friend Ryan has been a software developer for many different organizations including commercial grade medical software at Philips. He has been an engineering manager and technology leader for almost 4 years. Ryan developed software for multiple companies from
 
 
 I hope that this has piqued your interest. Next time we'll actually dig into a more specific software topic, but for now: _start asking questions_.
