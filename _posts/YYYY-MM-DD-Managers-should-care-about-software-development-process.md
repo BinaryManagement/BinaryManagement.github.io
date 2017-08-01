@@ -4,6 +4,10 @@ title: "Why managers should care about the software development process"
 date:
 categories:
 ---
+**_ "There are 10 types of Technology Leaders, those who understand technical people and those who don't."_**
+
+#### Welcome to Binary Management
+
 Managing a software project or product isn't always easy. First you have to deal with these odd folks that use words like API, CI/CD, technical debt, repositories, or stack. Once you manage to convey a simple feature request - using vigorous gestures and repeating yourself over and over and over ... - they start grilling you about all the finer points of what you meant. What do you know about it anyway? All you asked for was a simple shopping system right? Who cares about all these details that have to do with keeping records of price or product changes. Or not having a user system to tie these orders to...
 
 Well, you've come to the right place my friend, as I'm about to tell you - and you should've seen this coming already - they're right. Sure, it's not easy to understand everything they say, but that's what we're here to help you with.
@@ -50,7 +54,7 @@ We are not all-knowing. Maybe there are things we say that don't work for you. W
 
 I've had my own company for nearly 11 years where we focused on web application development for small and midsize companies. At the same time I've also been partner in another company where we developed parental control software as well as corporate software for managing IT policies. Nowadays I work at Philips Research as a Senior Architect, where I am a Product Owner for a software capability team supporting over 30 software based innovations a year.
 
-My friend Ryan has been a software developer for many different organizations including commercial grade medical software at Philips. He has been an engineering manager and technology leader for almost 4 years. Ryan developed software for multiple companies from
+My friend Ryan has held software engineering leadership positions for the past 4 years. His experience spans engineering management and other areas technical leadership. He spends a great deal of time thinking about the art of managing technical people. His leadership experience spans commercial medical device software at Philips, working as a technical lead for manufacturing software and currently as a Director of Technology Development for a small company.  He has been in Software development for the past ten years. Ryan spent his early career grinding it out as a mid-level and junior level developer for mostly manufacturing IT organizations prior to his work at Philips which changed his career for the better. Although no longer employed with Philips, Ryan met me as we worked together on launching a commercial product and we stayed in touch due to a shared passion in software development leadership. Together we hope to help other managers who may be wondering "how in the hell do I lead these guys?"
 
 
 I hope that this has piqued your interest. Next time we'll actually dig into a more specific software topic, but for now: _start asking questions_.
