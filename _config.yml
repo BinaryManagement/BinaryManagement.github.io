@@ -1,1 +1,8 @@
+#Site Settings
+title: Binary Management
+description: "10 types of software management"
+copyright_name: "Binary Management"
 theme: jekyll-theme-architect
+
+#Build Settings
+exclude: ["README.md, CNAME"]
