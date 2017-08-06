@@ -29,4 +29,5 @@ Consider very carefully any time technical decisions are made what shortcuts are
 * What kind of re-factoring can the team do to prevent technical debt buildup?
 * Is this the best decision at the time or are we taking a shortcut? (If you're taking a shortcut you've just identified technical debt.)
 
-#### Okay I think I got it. Measuring Technical Debt.
+#### Okay I think I got it. Weighing technical debt.
+How to know if you actually took on good technical debt? In short there's really no good way of knowing this, however you need to have a nose to sniff out the risk of a technical shortcut. In general, I believe the axiom should be that **No technical debt is good.** but I do understand that it's not a perfect world. Think about the future and think about how much additional time it would have taken your team (you can quantify this in dollars ) and see how it pays off over time. If your team then spends months cleaning it up their amount of griping and yes even in some cases turnover will tell you it wasn't worth it.
