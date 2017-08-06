@@ -1,1 +1,0 @@
-# Binary Management Blog Test
