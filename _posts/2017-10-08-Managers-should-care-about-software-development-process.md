@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why managers should care about the software development process"
-date:
+date: 2017-10-08
 categories:
 ---
 **_ "There are 10 types of Technology Leaders, those who understand technical people and those who don't."_**
