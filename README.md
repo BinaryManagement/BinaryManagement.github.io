@@ -1,6 +1,12 @@
+##Running the App locally
+1. Ensure that you have docker installed.
+2. From command line $ docker build -t blog
+3. docker run -t --rm -v "$PWD":/usr/src/app -p "4000:4000" blog
+4. Navigate to localhost:4000 
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BinaryManagement/BinaryManagement.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. 
+You can use the [editor on GitHub](https://github.com/BinaryManagement/BinaryManagement.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
